@@ -1,0 +1,9 @@
+.sign__input-block {
+    margin: 0 auto 230px auto;
+}
+
+@media screen and (max-width:950px) {
+.sign__input-block  {
+    margin: 0 auto 173px auto;
+}
+}

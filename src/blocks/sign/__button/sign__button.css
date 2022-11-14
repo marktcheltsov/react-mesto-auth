@@ -1,0 +1,25 @@
+.sign__button {
+    width: 358px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+    border: none;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width:950px) {
+.sign__button  {
+    width: 260px;
+    height: 46px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 19px;
+}
+}
